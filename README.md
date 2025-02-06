@@ -1,4 +1,5 @@
-# apnacollege.demo
-this is my first repository
-author - vaibhav tiwari
+This is my first repository
+<br>
+Author - Vaibhav Tiwari
+<br>
 LETS GO BRO 
